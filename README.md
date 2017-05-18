@@ -1,2 +1,2 @@
 # SocialReporter
-Application to post compliant on social networks
+Application to post complaints on social networks
